@@ -1,0 +1,20 @@
+{
+  "name": "live-collab-whiteboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.2",
+    "bootstrap": "^5.3.3",
+    "concurrently": "^8.2.2",
+    "express": "^4.19.2",
+    "react-bootstrap": "^2.10.3",
+    "socket.io": "^4.7.5"
+  }
+}
